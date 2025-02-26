@@ -35,3 +35,6 @@ Get the optimal tax-saving suggestion ✅
 Upload an invoice or salary slip (PDF/Image) 📄
 Extract text using OCR 🖹
 Identify taxable income automatically 💵
+
+![Screenshot 2025-02-26 131124](https://github.com/user-attachments/assets/25881a4f-e447-409e-8dd7-a35b408c22d9)
+
