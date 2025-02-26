@@ -5,6 +5,7 @@ The Tax Assistant is an AI-powered tool designed to simplify tax calculations, a
 An AI-powered tool designed to simplify tax calculations, automate invoice scanning using OCR, and provide financial insights through interactive data visualization.
 
 🚀 Features:
+
 1.OCR Invoice Scanner – Extracts tax details from invoices & salary slips
 
 2.Automated Tax Calculation – Computes tax under Old and New regimes
@@ -26,7 +27,9 @@ Database
 🛢 SQLite/MySQL/PostgreSQL – Stores tax history and extracted data
 
 🎯 How It Works:
-1️⃣ Tax Calculator
+
+1️⃣ Tax Calculator:
+
 1.Enter your annual income 💰
 
 2.Add investments & deductions 📉
@@ -35,7 +38,8 @@ Database
 
 4.Get the optimal tax-saving suggestion ✅
 
-2️⃣ OCR Invoice Scanner
+2️⃣ OCR Invoice Scanner:
+
 Upload an invoice or salary slip (PDF/Image) 📄
 
 Extract text using OCR 🖹
