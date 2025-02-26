@@ -38,3 +38,4 @@ Identify taxable income automatically 💵
 
 ![Screenshot 2025-02-26 131124](https://github.com/user-attachments/assets/25881a4f-e447-409e-8dd7-a35b408c22d9)
 
+![Screenshot 2025-02-26 131146](https://github.com/user-attachments/assets/21775313-0724-4027-b435-34ffdcd48a8b)
