@@ -1,8 +1,7 @@
 # Google-Girl-Hackathon
 📊 AI Tax Assistant 💰
 Overview
-The Tax Assistant is an AI-powered tool designed to simplify tax calculations, automate invoice scanning using OCR, and provide insights for better financial management.
-An AI-powered tool designed to simplify tax calculations, automate invoice scanning using OCR, and provide financial insights through interactive data visualization.
+The Tax Assistant is an AI-powered tool designed to simplify tax calculations, automate invoice scanning using OCR, and provide financial insights through interactive data visualization.
 
 🚀 Features:
 
@@ -17,13 +16,21 @@ An AI-powered tool designed to simplify tax calculations, automate invoice scann
 5.User-Friendly UI – Simple and intuitive Streamlit-based interface
 
 🏗 Tech Stack
+
 Frontend
+
 🖥 Streamlit – Interactive UI for easy tax calculations
-Backend
+
+Backend 
+
 🐍 Python (FastAPI/Flask) – API and business logic
+
 AI/ML & OCR
+
 📄 OCR (Tesseract, pdf2image, PIL) – Extracts text from invoices & PDFs
+
 Database
+
 🛢 SQLite/MySQL/PostgreSQL – Stores tax history and extracted data
 
 🎯 How It Works:
