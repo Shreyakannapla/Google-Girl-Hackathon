@@ -19,9 +19,12 @@ Database: SQLite/MySQL/PostgreSQL – Stores tax history and extracted data
 How It Works:
 Tax Calculator:
 
-1.Enter your annual income 
+1.Enter your annual income
+
 2.Add investments & deductions 
+
 3.Compare Old vs. New Tax Regime 
+
 4.Get the optimal tax-saving suggestion 
 
 OCR Invoice Scanner:
